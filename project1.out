@@ -1,0 +1,374 @@
+
+ (TOP 
+  (X7 
+   (NP Work)
+   (VP 
+    (VBZ accelerates)
+    (NP 
+     (Det the)
+     (Nom 
+      (Nom growth)
+      (PP 
+       (Prep of)
+       (NP muscles))))))
+  (PUNC .))
+
+
+1
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP Muscles)
+   (VP 
+    (VBP grow)
+    (PP 
+     (Prep in)
+     (NP 
+      (Nom response)
+      (PP 
+       (Prep to)
+       (NP work))))))
+  (PUNC .))
+
+
+2
+---------------------------------------
+
+
+3
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP 
+    (Det The)
+    (Nom 
+     (ADJP pyramidal)
+     (Nom 
+      (Nom motor)
+      (NP system))))
+   (VP 
+    (VBZ controls)
+    (NP 
+     (ADJP voluntary)
+     (Nom movements))))
+  (PUNC .))
+
+
+4
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP 
+    (ADJP Old)
+    (Nom people))
+   (VP 
+    (VBP are)
+    (PP 
+     (Prep at)
+     (NP 
+      (Nom risk)
+      (PP 
+       (Prep for)
+       (NP arthritis))))))
+  (PUNC .))
+
+
+5
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP 
+    (Nom Dr)
+    (NP 
+     (Nom David)
+     (NP Cook)))
+   (VP 
+    (VBZ is)
+    (NP 
+     (Det a)
+     (Nom 
+      (Nom researcher)
+      (PP 
+       (Prep of)
+       (NP 
+        (Det the)
+        (Nom 
+         (Nom motor)
+         (NP system))))))))
+  (PUNC .))
+
+
+6
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP 
+    (Det The)
+    (Nom 
+     (Nom muscle)
+     (NP action)))
+   (VP 
+    (VBZ is)
+    (VP 
+     (VBN determined)
+     (PP 
+      (Prep by)
+      (NP 
+       (Det the)
+       (Nom 
+        (X2 
+         (Nom origin)
+         (Conj and))
+        (Nom 
+         (Nom insertion)
+         (NP locations))))))))
+  (PUNC .))
+
+
+7
+---------------------------------------
+
+
+8
+---------------------------------------
+
+ (TOP 
+  (X16 
+   (X15 
+    (VBZ Is)
+    (NP 
+     (Det the)
+     (Nom muscle)))
+   (ADJP tired))
+  (PUNC ?))
+
+
+9
+---------------------------------------
+
+ (TOP 
+  (VBP Do)
+  (S 
+   (X7 
+    (NP you)
+    (VP 
+     (VB have)
+     (NP 
+      (Nom pain)
+      (PP 
+       (Prep in)
+       (NP 
+        (Det the)
+        (Nom 
+         (Nom muscles)
+         (PP 
+          (Prep on)
+          (NP 
+           (Det the)
+           (Nom 
+            (Nom side)
+            (PP 
+             (Prep of)
+             (NP 
+              (Det the)
+              (Nom face))))))))))))
+   (PUNC ?)))
+
+
+10
+---------------------------------------
+
+ (TOP 
+  (X6 
+   (NP Scientists)
+   (ADVP finally))
+  (VP 
+   (VBD realized)
+   (SBAR 
+    (IN that)
+    (S 
+     (X7 
+      (NP DNA)
+      (VP 
+       (VBZ controls)
+       (NP heredity)))
+     (PUNC .)))))
+
+
+11
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP 
+    (Det A)
+    (Nom 
+     (X1 
+      (NN pain)
+      (PP 
+       (Prep in)
+       (NP 
+        (Det the)
+        (Nom abdomen))))
+     (VP 
+      (VBG lasting)
+      (NP 
+       (QP 
+        (X12 
+         (JJR more)
+         (IN than))
+        (Det a))
+       (NN week)))))
+   (VP 
+    (MD could)
+    (VP 
+     (VB be)
+     (NP appendicitis))))
+  (PUNC .))
+
+
+12
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP 
+    (Det The)
+    (Nom muscle))
+   (VP 
+    (X5 
+     (VBZ is)
+     (VBG functioning))
+    (ADVP normally)))
+  (PUNC .))
+
+
+13
+---------------------------------------
+
+
+14
+---------------------------------------
+
+ (TOP 
+  (X11 
+   (X10 
+    (PP 
+     (Prep Before)
+     (NP 
+      (Det the)
+      (Nom 
+       (Nom discovery)
+       (PP 
+        (Prep of)
+        (NP DNA)))))
+    (NP heredity))
+   (VP 
+    (VBD was)
+    (NP 
+     (Det a)
+     (Nom mystery))))
+  (PUNC .))
+
+
+15
+---------------------------------------
+
+
+16
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP There)
+   (VP 
+    (VBZ is)
+    (NP 
+     (ADJP much)
+     (Nom 
+      (Nom research)
+      (PP 
+       (Prep on)
+       (NP 
+        (Det the)
+        (Nom 
+         (Nom growth)
+         (PP 
+          (Prep of)
+          (NP muscles)))))))))
+  (PUNC .))
+
+
+17
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP 
+    (Det Some)
+    (Nom muscles))
+   (VP 
+    (VB have)
+    (NP 
+     (ADJP many)
+     (Nom 
+      (Nom insertion)
+      (NP locations)))))
+  (PUNC .))
+
+
+18
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP 
+    (Det Few)
+    (Nom 
+     (NNS people)
+     (ADJP 
+      (Adj privy)
+      (PP 
+       (Prep to)
+       (NP 
+        (Det the)
+        (Nom research))))))
+   (VP 
+    (VBP are)
+    (ADJP 
+     (Adj willing)
+     (S 
+      (TO to)
+      (VP 
+       (VB dispute)
+       (NP it))))))
+  (PUNC .))
+
+
+19
+---------------------------------------
+
+ (TOP 
+  (X7 
+   (NP 
+    (ADJP Old)
+    (Nom people))
+   (VP 
+    (VBP consider)
+    (S 
+     (NP arthritis)
+     (NP 
+      (Det a)
+      (Nom 
+       (ADJP scary)
+       (Nom disease))))))
+  (PUNC .))
+
+
+20
+---------------------------------------

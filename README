@@ -1,0 +1,6 @@
+CYK Parser
+2/8/2013
+
+This program was originally written by Tristan Euan Chong as a project for LING
+571 at the University of Washington. It implements the Cocke-Younger-Kasami 
+algorithm to parse a context-free grammar in Chomsky Normal Form.
